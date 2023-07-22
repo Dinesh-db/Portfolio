@@ -1,0 +1,36 @@
+.skills-container{
+    text-align: center;
+    padding: 20px;
+    margin: 30px;
+    margin-top: 100px;
+    border-radius: 20px;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
+}
+
+.skills-program{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.skills-set{
+    margin-left: 10px;
+    padding: 20px;
+    border-radius: 15px;
+    width: 150px;
+    transition: all 1s;
+}
+
+.skills-set:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+    border-color: rgb(40, 252, 97);
+    border-bottom: solid;
+    
+}
+
+
+.skills-set img{
+    
+    height: 50px;
+}

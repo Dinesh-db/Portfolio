@@ -1,0 +1,65 @@
+.project-container{
+    padding: 20px;
+}
+
+.project-set{
+    margin-bottom: 30px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    border-bottom: solid;
+}
+
+.blockchain{
+    width: 340px;
+}
+
+.projects-name{
+    display: flex;
+}
+.project-image img{
+    margin-bottom: -4px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    height: 225px;
+}
+
+.proj-github{
+    cursor: pointer;
+    margin: 15px;
+    padding: 10px;
+    border: solid;
+    width: fit-content;
+    border-radius: 10px;
+}
+.proj-github a{
+    text-decoration: none;
+}
+.proj-github:hover{
+    background-color: #222;
+    color: #fff;
+}
+.proj-github a:hover{
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.project-details{
+    padding-left: 20px;
+}
+
+.details-frameworks{
+    display: flex;
+}
+
+.pro-title{
+    text-align: center;
+}
+.details-prj{
+    margin-right: 10px;
+    padding-left: 9px;
+    padding-right: 9px;
+    background: #222;
+    color: #fff;
+    border-radius: 15px;
+}
