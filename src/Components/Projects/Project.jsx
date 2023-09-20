@@ -8,6 +8,36 @@ function Project(){
             <div className="project-set">
                 <div className="projects-name">
                     <div className="project-image">
+                        <img src="https://static.foxbusiness.com/foxbusiness.com/content/uploads/2022/04/iStock-1324099927.jpg" alt="Avatar" className="blockchain"/>
+                    </div>
+                    <div className="project-details">
+                        <h1>Anima</h1>
+                        <p>Anima application is a simple website for the petcare and pet related help problem.It is a good commuincator between the pet doctors and pet customers.The pet keepers are 
+                            also the contact the pet trainer through this apllication. Anima is also the e-commerce website for the pet products buy and sells.
+                        </p>
+                        <div className="details-frameworks">
+                            <div className="details-prj">JavaScript</div>
+                            <div className="details-prj">React JS</div>
+                            <div className="details-prj">Node JS</div>
+                            <div className="details-prj">Mongo DB</div>
+                            
+                        </div>
+                        <div className="proj-links">
+                            
+                            <div className="proj-github">
+                                <a href="https://github.com/Dinesh-db/Anima" target="_blank">Github</a>
+                            </div>
+                            <div className="proj-github">
+                                <a href="https://anima-db.netlify.app" target="_blank">Live</a>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+            
+            <div className="project-set">
+                <div className="projects-name">
+                    <div className="project-image">
                         <img src="https://media.istockphoto.com/id/1267010934/photo/experienced-engineer-explaining-the-problems-in-construction-works-development-after-recession.jpg?s=612x612&w=0&k=20&c=kSbguQRPqhgKgYzy-P-e1ScLXBXWszQn1JimPfE4aWk=" alt="Avatar" className="image"/>
                     </div>
                     <div className="project-details">
@@ -22,8 +52,16 @@ function Project(){
                             <div className="details-prj">Express</div>
                             <div className="details-prj">MongoDB</div>
                         </div>
-                        <div className="proj-github">
-                            <a href="https://github.com/Dinesh-db/TGK-Frontend" target="_blank">Github</a>
+                        
+                        <div className="proj-links">
+                            
+                            <div className="proj-github">
+                                <a href="https://github.com/Dinesh-db/TGK-Frontend" target="_blank">Github</a>
+                            </div>
+                            
+                            <div className="proj-github">
+                                <a href="https://tgkenterprises.netlify.app/" target="_blank">Live</a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -48,8 +86,41 @@ function Project(){
                             <div className="details-prj">Ethereum</div>
                             <div className="details-prj">Solidity</div>
                         </div>
-                        <div className="proj-github">
-                            <a href="https://github.com/Dinesh-db/Blockchain" target="_blank">Github</a>
+                        <div className="proj-links">
+                            
+                            <div className="proj-github">
+                                <a href="https://github.com/Dinesh-db/Blockchain" target="_blank">Github</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div className="project-set">
+                <div className="projects-name">
+                    <div className="project-image">
+                        <img src="https://www.passionateinmarketing.com/wp-content/uploads/2021/06/large.png" alt="Avatar" className="blockchain"/>
+                    </div>
+                    <div className="project-details">
+                        <h1>IPL INSIGHTS</h1>
+                        <p>IPL insights show you the last four years IPL final points table and the team players in the reactflow methodology.
+                        </p>
+                        <div className="details-frameworks">
+                            <div className="details-prj">JavaScript</div>
+                            <div className="details-prj">React JS</div>
+                            <div className="details-prj">Insights</div>
+                            <div className="details-prj">reactflow</div>
+                            
+                        </div>
+                        
+                        <div className="proj-links">
+                            
+                            <div className="proj-github">
+                                <a href="https://github.com/Dinesh-db/IPL-Insights" target="_blank">Github</a>
+                            </div>
+                            
+                            <div className="proj-github">
+                                <a href="https://ipl-insights-reactflow-db.netlify.app/" target="_blank">Live</a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -70,12 +141,68 @@ function Project(){
                             <div className="details-prj">Interactive</div>
                             
                         </div>
-                        <div className="proj-github">
-                            <a href="https://github.com/Dinesh-db/Tic-Toe" target="_blank">Github</a>
+                        
+                        <div className="proj-links">
+                            
+                            <div className="proj-github">
+                                <a href="https://github.com/Dinesh-db/Tic-Toe" target="_blank">Github</a>
+                            </div>
+                            
+                            <div className="proj-github">
+                                <a href="https://tictactoe-db.netlify.app/" target="_blank">Live</a>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
+            <div className="project-set">
+                <div className="projects-name">
+                    <div className="project-image">
+                        <img src="https://images.wallpaperscraft.com/image/single/books_library_shelves_138556_1920x1080.jpg" alt="Avatar" className="blockchain"/>
+                    </div>
+                    <div className="project-details">
+                        <h1>Cosmic Library</h1>
+                        <p>Cosmic-Library is a simple application that helps manage a library and its processes like stocking, tracking and renting books. With this application users are able to find and rent books. The application also has an admin section where the admin can do things like add books, delete books, increase the quantity of a book etc.
+                        </p>
+                        <div className="details-frameworks">
+                            <div className="details-prj">JavaScript</div>
+                            <div className="details-prj">React JS</div>
+                            <div className="details-prj">My SQL</div>
+                        </div>
+                        <div className="proj-links">
+                            
+                            <div className="proj-github">
+                                <a href="https://github.com/Dinesh-db/Cosmic" target="_blank">Github</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div className="project-set">
+                <div className="projects-name">
+                    <div className="project-image">
+                        <img src="https://vaidhyamana.com/wp-content/uploads/2020/01/ayurveda-3.jpg" alt="Avatar" className="blockchain"/>
+                    </div>
+                    <div className="project-details">
+                        <h1>Aysuh APP</h1>
+                        <p>Cosmic-Library is a simple application that helps manage a library and its processes like stocking, tracking and renting books. With this application users are able to find and rent books. The application also has an admin section where the admin can do things like add books, delete books, increase the quantity of a book etc.
+                        </p>
+                        <div className="details-frameworks">
+                            <div className="details-prj">JavaScript</div>
+                            <div className="details-prj">React JS</div>
+                            <div className="details-prj">My SQL</div>
+                        </div>
+                        <div className="proj-links">
+                            
+                            <div className="proj-github">
+                                <a href="https://github.com/Dinesh-db/Cosmic" target="_blank">Github</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+            
         </div>
         </>
     );

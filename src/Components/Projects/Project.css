@@ -55,6 +55,9 @@
 .pro-title{
     text-align: center;
 }
+.proj-links{
+    display: flex;
+}
 .details-prj{
     margin-right: 10px;
     padding-left: 9px;
@@ -62,4 +65,28 @@
     background: #222;
     color: #fff;
     border-radius: 15px;
+}
+
+
+@media screen and (max-width:850px){
+    .projects-name{
+        display: flex;
+        flex-direction: column;
+    }
+    .project-image img{
+        width: 100%;
+        margin-bottom: -4px;
+        border-radius: 20px;
+        height: 225px;
+    }
+    .details-frameworks{
+        display: flex;
+        display: none;
+        width: fit-content;
+        flex-direction: column;
+    }
+    .details-prj{
+        margin-bottom: 10px;
+    }
+    
 }
