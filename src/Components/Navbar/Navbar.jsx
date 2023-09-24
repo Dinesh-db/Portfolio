@@ -9,7 +9,7 @@ function Navbar(){
             </div>
             <div className="nav-links">
                 <div className="list-right list-contact">
-                    <a href="https://drive.google.com/file/d/1Q1ThHnN6T3weS-MZyxIG0BDgjLAfYW1o/view?usp=sharing" target="_blank">Resume</a>
+                    <a href="https://drive.google.com/file/d/1r99jK_xfczXPhPpcnKKqhmQJokAmkYyM/view?usp=sharing" target="_blank">Resume</a>
                 </div>
             </div>
         </div>
