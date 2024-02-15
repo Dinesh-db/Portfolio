@@ -1,9 +1,12 @@
 # Portfolio
 About my skills, resume and projects
 
+# Link
+### `https://dinesh-db.netlify.app/`
 
 This Repository can be access to everyone.
 
+# Github
 
 ### `https://github.com/Dinesh-db/portfolio.git`
 
