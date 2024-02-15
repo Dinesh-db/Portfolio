@@ -98,7 +98,7 @@ function Project(){
             <div className="project-set">
                 <div className="projects-name">
                     <div className="project-image">
-                        <img src="https://www.passionateinmarketing.com/wp-content/uploads/2021/06/large.png" alt="Avatar" className="blockchain"/>
+                        <img src="https://static.vecteezy.com/system/resources/previews/009/130/940/original/ipl-logo-ipl-letter-ipl-letter-logo-design-initials-ipl-logo-linked-with-circle-and-uppercase-monogram-logo-ipl-typography-for-technology-business-and-real-estate-brand-vector.jpg" alt="Avatar" className="blockchain"/>
                     </div>
                     <div className="project-details">
                         <h1>IPL INSIGHTS</h1>
@@ -185,7 +185,7 @@ function Project(){
                     </div>
                     <div className="project-details">
                         <h1>Aysuh APP</h1>
-                        <p>Cosmic-Library is a simple application that helps manage a library and its processes like stocking, tracking and renting books. With this application users are able to find and rent books. The application also has an admin section where the admin can do things like add books, delete books, increase the quantity of a book etc.
+                        <p>Aysuh App is a application for the ayurveda medical store which are near from your location.It shows every ayurveda medical shop available and location, route to travel through this app.
                         </p>
                         <div className="details-frameworks">
                             <div className="details-prj">JavaScript</div>
@@ -195,7 +195,7 @@ function Project(){
                         <div className="proj-links">
                             
                             <div className="proj-github">
-                                <a href="https://github.com/Dinesh-db/Cosmic" target="_blank">Github</a>
+                                <a href="https://github.com/Dinesh-db/Ayush-app" target="_blank">Github</a>
                             </div>
                         </div>
                     </div>
