@@ -115,7 +115,7 @@ function Project(){
                         <div className="proj-links">
                             
                             <div className="proj-github">
-                                <a href="" target="_blank">Github</a>
+                                <a href="https://tictactoe-db.netlify.app/" target="_blank">Github</a>
                             </div>
                             
                             <div className="proj-github">
