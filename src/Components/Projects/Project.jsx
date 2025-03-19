@@ -115,7 +115,7 @@ function Project(){
                         <div className="proj-links">
                             
                             <div className="proj-github">
-                                <a href="https://github.com/Dinesh-db/IPL-Insights" target="_blank">Github</a>
+                                <a href="" target="_blank">Github</a>
                             </div>
                             
                             <div className="proj-github">
